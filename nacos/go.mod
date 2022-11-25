@@ -3,7 +3,7 @@ module github.com/go-mogu/mogu-registry/nacos
 go 1.19
 
 require (
-	github.com/cloudwego/hertz v0.4.0
+	github.com/cloudwego/hertz v0.4.1
 	github.com/nacos-group/nacos-sdk-go/v2 v2.1.2
 )
 
@@ -16,7 +16,7 @@ require (
 	github.com/bytedance/sonic v1.5.0 // indirect
 	github.com/cespare/xxhash/v2 v2.1.2 // indirect
 	github.com/chenzhuoyu/base64x v0.0.0-20211019084208-fb5309c8db06 // indirect
-	github.com/cloudwego/netpoll v0.2.6 // indirect
+	github.com/cloudwego/netpoll v0.3.1 // indirect
 	github.com/fsnotify/fsnotify v1.5.4 // indirect
 	github.com/golang/mock v1.6.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect

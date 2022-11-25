@@ -1,1 +1,1 @@
-# mogu-registry
+# mogu-registry扩展
